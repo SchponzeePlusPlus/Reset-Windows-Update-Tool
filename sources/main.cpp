@@ -12,6 +12,7 @@
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 
+#include <stdio.h>
 #include "wureset.h"
 
 using namespace std;
